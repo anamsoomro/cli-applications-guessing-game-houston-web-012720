@@ -4,7 +4,6 @@ def run_guessing_game()
   #  number = rand(7)
   #  rand(max) picks a number between 0 and 6-1 
   #end
-  
   number = rand(6) + 1
   #puts "number is #{number}"
   #puts "Guess number 1 through 6?"
